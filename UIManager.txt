@@ -1,0 +1,12 @@
+public class UIManager : MonoBehaviour
+{
+
+public void start()
+{
+}
+
+public void Update()
+{
+}
+
+}
